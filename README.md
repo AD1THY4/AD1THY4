@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @AD1THY4
-- 👀 I’m interested in Cybersecurity/Designing/Web development/AR-VR
-- 🌱 I’m currently learning CSE BE(2nd year)
+- 👀 I’m interested in Designing/Web development/AR-VR
+- 🌱 I’m currently learning CSE BE(4th year)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... email me @ adithyakrishnanpillai@gmail.com
 
-<!---
-AD1THY4/AD1THY4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
