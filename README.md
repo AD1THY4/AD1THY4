@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AD1THY4
+- 👋 Hi, I’m Adithya Krishnan
 - 👀 I’m interested in Game Designing/Web development/AR-VR
 - 🌱 I’m currently learning MSc Computer Games Development
 - 💞️ I’m looking to collaborate on ... Games and stories
